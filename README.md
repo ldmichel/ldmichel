@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leah.
 - 👀 I’m interested in NLP, AI, Machine Learning and technologies that deal with natural language.
-- 🌱 I’m currently learning (for this semester) Machine Translation, Search Engines, Applied Programming (in NLP), Machine Learning, and Computer Networks & Distributed Systems.
-- 💞️ I’m looking to collaborate on projects involving the ones mentioned in my interests. If it involves Philippine languages, the better.
+- 🌱 I’m currently learning Knowledge Discovery in Databases, Big Data Management & Analytics and development of graphs in Neo4J.
+- 💞️ I’m currently looking to collaborate on projects involving Named Entity Recognition/ Extraction for knowledge graphs.
 - 📫 You may reach me through l.michel@campus.lmu.de
 
 <!---
